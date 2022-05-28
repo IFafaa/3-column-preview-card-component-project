@@ -26,13 +26,14 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshots/desktop-scheenshot.png)
-![](./)
+![](./screenshots/mobile-screenshot-1.jpeg)
+![](./screenshots/mobile-screenshot-2.jpeg)
 
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/semantic-html-css-mediaquerry-and-flexbox-cju8IUKL78]
+- Live Site URL: [https://ifafaa.github.io/3-column-preview-card-component-project/]
 
 
 ### Built with
