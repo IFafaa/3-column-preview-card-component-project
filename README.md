@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/semantinc-html-css-flexbox-and-mediaquerry-J4GGY2RE5_]
-- Live Site URL: [https://ifafaa.github.io/order-summary-component-project/]
+- Solution URL: []
+- Live Site URL: []
 
 
 ### Built with
